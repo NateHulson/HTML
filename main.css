@@ -1,0 +1,22 @@
+body{
+    background-color:black
+
+}
+
+h1{
+    color:white
+}
+
+
+li{
+    float: left;
+}
+
+a{
+    display:block;
+    padding:8px;
+    background-color: red;
+
+}
+
+ul{ list-style-type: none; }
