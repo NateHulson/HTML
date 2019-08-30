@@ -41,7 +41,7 @@ li a:hover {
     background-color: black;
 }
 
-p{
+p{  margin:50px;
     Font-size:20px;
     Text-align:center;
     color:white
